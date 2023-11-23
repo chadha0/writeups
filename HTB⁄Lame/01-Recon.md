@@ -1,8 +1,8 @@
 1. check connection :
-![[Pasted image 20231107152755.png]]
+![](../Attachemnts/Pasted%20image%2020231107152755.png)
 connection established 
 2. active scanning 
-### [[nmap]]  ###
+### [[nmap)  ###
 
 - command:
 ```
@@ -21,11 +21,11 @@ sudo nmap -vvv -Pn -sCV -p0-65535 --reason -oN lame.nmap 10.10.10.3
 
 | Service | port | 
   |---: |---: |
-  | [[ftp]] |  21 | 
-  | [[ssh]] | 22 | 
-  | [[samba]] |  139 | 
-  | [[samba]] | 445 | 
-  | [[distccd]] | 3632 |
+  | [[ftp) |  21 | 
+  | [[ssh) | 22 | 
+  | [[samba) |  139 | 
+  | [[samba) | 445 | 
+  | [[distccd) | 3632 |
 
 
 
